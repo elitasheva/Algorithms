@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\02.RectangleIntersection\bin\Debug\02.RectangleIntersection.exe.config
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\02.RectangleIntersection\bin\Debug\02.RectangleIntersection.exe
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\02.RectangleIntersection\bin\Debug\02.RectangleIntersection.pdb
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\02.RectangleIntersection\obj\Debug\02.RectangleIntersection.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\02.RectangleIntersection\obj\Debug\02.RectangleIntersection.exe
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\02.RectangleIntersection\obj\Debug\02.RectangleIntersection.pdb

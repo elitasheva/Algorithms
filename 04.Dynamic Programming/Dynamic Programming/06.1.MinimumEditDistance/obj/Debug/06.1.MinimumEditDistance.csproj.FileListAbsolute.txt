@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\06.1.MinimumEditDistance\bin\Debug\06.1.MinimumEditDistance.exe.config
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\06.1.MinimumEditDistance\bin\Debug\06.1.MinimumEditDistance.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\06.1.MinimumEditDistance\bin\Debug\06.1.MinimumEditDistance.pdb
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\06.1.MinimumEditDistance\obj\Debug\06.1.MinimumEditDistance.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\06.1.MinimumEditDistance\obj\Debug\06.1.MinimumEditDistance.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\06.1.MinimumEditDistance\obj\Debug\06.1.MinimumEditDistance.pdb

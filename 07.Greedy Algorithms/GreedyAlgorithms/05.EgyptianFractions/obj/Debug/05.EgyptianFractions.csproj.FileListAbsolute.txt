@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\05.EgyptianFractions\bin\Debug\05.EgyptianFractions.exe.config
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\05.EgyptianFractions\bin\Debug\05.EgyptianFractions.exe
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\05.EgyptianFractions\bin\Debug\05.EgyptianFractions.pdb
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\05.EgyptianFractions\obj\Debug\05.EgyptianFractions.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\05.EgyptianFractions\obj\Debug\05.EgyptianFractions.exe
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\05.EgyptianFractions\obj\Debug\05.EgyptianFractions.pdb

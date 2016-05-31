@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\02.Combinatorial Algorithms\Ex\Ex\bin\Debug\Ex.exe.config
+D:\Projects\Fundamental\07.Algorithms\02.Combinatorial Algorithms\Ex\Ex\bin\Debug\Ex.exe
+D:\Projects\Fundamental\07.Algorithms\02.Combinatorial Algorithms\Ex\Ex\bin\Debug\Ex.pdb
+D:\Projects\Fundamental\07.Algorithms\02.Combinatorial Algorithms\Ex\Ex\obj\Debug\Ex.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\02.Combinatorial Algorithms\Ex\Ex\obj\Debug\Ex.exe
+D:\Projects\Fundamental\07.Algorithms\02.Combinatorial Algorithms\Ex\Ex\obj\Debug\Ex.pdb

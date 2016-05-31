@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\05.BreakCycles\bin\Debug\05.BreakCycles.exe.config
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\05.BreakCycles\bin\Debug\05.BreakCycles.exe
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\05.BreakCycles\bin\Debug\05.BreakCycles.pdb
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\05.BreakCycles\obj\Debug\05.BreakCycles.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\05.BreakCycles\obj\Debug\05.BreakCycles.exe
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\05.BreakCycles\obj\Debug\05.BreakCycles.pdb

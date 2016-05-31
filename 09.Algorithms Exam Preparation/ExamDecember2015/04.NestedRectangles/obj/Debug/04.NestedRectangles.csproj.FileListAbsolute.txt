@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\04.NestedRectangles\bin\Debug\04.NestedRectangles.exe.config
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\04.NestedRectangles\bin\Debug\04.NestedRectangles.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\04.NestedRectangles\bin\Debug\04.NestedRectangles.pdb
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\04.NestedRectangles\obj\Debug\04.NestedRectangles.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\04.NestedRectangles\obj\Debug\04.NestedRectangles.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\04.NestedRectangles\obj\Debug\04.NestedRectangles.pdb

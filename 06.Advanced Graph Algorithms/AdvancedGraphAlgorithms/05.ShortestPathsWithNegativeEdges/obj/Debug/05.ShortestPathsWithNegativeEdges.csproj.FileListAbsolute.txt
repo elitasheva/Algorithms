@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\05.ShortestPathsWithNegativeEdges\bin\Debug\05.ShortestPathsWithNegativeEdges.exe.config
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\05.ShortestPathsWithNegativeEdges\bin\Debug\05.ShortestPathsWithNegativeEdges.exe
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\05.ShortestPathsWithNegativeEdges\bin\Debug\05.ShortestPathsWithNegativeEdges.pdb
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\05.ShortestPathsWithNegativeEdges\obj\Debug\05.ShortestPathsWithNegativeEdges.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\05.ShortestPathsWithNegativeEdges\obj\Debug\05.ShortestPathsWithNegativeEdges.exe
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\05.ShortestPathsWithNegativeEdges\obj\Debug\05.ShortestPathsWithNegativeEdges.pdb

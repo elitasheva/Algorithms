@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\02.NonCrossingBridges\bin\Debug\02.NonCrossingBridges.exe.config
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\02.NonCrossingBridges\bin\Debug\02.NonCrossingBridges.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\02.NonCrossingBridges\bin\Debug\02.NonCrossingBridges.pdb
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\02.NonCrossingBridges\obj\Debug\02.NonCrossingBridges.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\02.NonCrossingBridges\obj\Debug\02.NonCrossingBridges.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\02.NonCrossingBridges\obj\Debug\02.NonCrossingBridges.pdb

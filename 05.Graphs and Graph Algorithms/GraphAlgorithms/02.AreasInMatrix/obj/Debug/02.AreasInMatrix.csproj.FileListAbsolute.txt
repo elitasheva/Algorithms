@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\02.AreasInMatrix\bin\Debug\02.AreasInMatrix.exe.config
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\02.AreasInMatrix\bin\Debug\02.AreasInMatrix.exe
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\02.AreasInMatrix\bin\Debug\02.AreasInMatrix.pdb
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\02.AreasInMatrix\obj\Debug\02.AreasInMatrix.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\02.AreasInMatrix\obj\Debug\02.AreasInMatrix.exe
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\GraphAlgorithms\02.AreasInMatrix\obj\Debug\02.AreasInMatrix.pdb

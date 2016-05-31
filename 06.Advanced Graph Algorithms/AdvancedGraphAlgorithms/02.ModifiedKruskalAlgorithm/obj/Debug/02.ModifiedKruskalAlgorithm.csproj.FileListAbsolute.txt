@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\02.ModifiedKruskalAlgorithm\bin\Debug\02.ModifiedKruskalAlgorithm.exe.config
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\02.ModifiedKruskalAlgorithm\bin\Debug\02.ModifiedKruskalAlgorithm.exe
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\02.ModifiedKruskalAlgorithm\bin\Debug\02.ModifiedKruskalAlgorithm.pdb
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\02.ModifiedKruskalAlgorithm\obj\Debug\02.ModifiedKruskalAlgorithm.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\02.ModifiedKruskalAlgorithm\obj\Debug\02.ModifiedKruskalAlgorithm.exe
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\AdvancedGraphAlgorithms\02.ModifiedKruskalAlgorithm\obj\Debug\02.ModifiedKruskalAlgorithm.pdb

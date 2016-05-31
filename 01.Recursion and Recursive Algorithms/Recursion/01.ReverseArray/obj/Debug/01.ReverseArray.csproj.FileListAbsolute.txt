@@ -1,0 +1,5 @@
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\01.ReverseArray\bin\Debug\01.ReverseArray.exe.config
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\01.ReverseArray\bin\Debug\01.ReverseArray.exe
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\01.ReverseArray\bin\Debug\01.ReverseArray.pdb
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\01.ReverseArray\obj\Debug\01.ReverseArray.exe
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\01.ReverseArray\obj\Debug\01.ReverseArray.pdb

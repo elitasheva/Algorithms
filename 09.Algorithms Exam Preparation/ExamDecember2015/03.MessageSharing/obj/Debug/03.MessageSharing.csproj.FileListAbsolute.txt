@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\03.MessageSharing\bin\Debug\03.MessageSharing.exe.config
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\03.MessageSharing\bin\Debug\03.MessageSharing.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\03.MessageSharing\bin\Debug\03.MessageSharing.pdb
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\03.MessageSharing\obj\Debug\03.MessageSharing.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\03.MessageSharing\obj\Debug\03.MessageSharing.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\03.MessageSharing\obj\Debug\03.MessageSharing.pdb

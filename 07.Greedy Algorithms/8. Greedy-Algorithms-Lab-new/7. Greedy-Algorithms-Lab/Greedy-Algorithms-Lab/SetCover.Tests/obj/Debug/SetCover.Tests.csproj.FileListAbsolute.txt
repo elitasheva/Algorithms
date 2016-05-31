@@ -1,0 +1,16 @@
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.Tests.dll
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.Tests.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.exe
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\obj\Debug\SetCover.Tests.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\obj\Debug\SetCover.Tests.dll
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\obj\Debug\SetCover.Tests.pdb
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.Tests.dll
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.Tests.pdb
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.exe
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.pdb
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\obj\Debug\SetCover.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\obj\Debug\SetCover.Tests.dll
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\obj\Debug\SetCover.Tests.pdb

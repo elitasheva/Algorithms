@@ -1,0 +1,24 @@
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\AStar\AStarAlgorithm\bin\Debug\AStarAlgorithm.exe.config
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\AStar\AStarAlgorithm\bin\Debug\AStarAlgorithm.exe
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\AStar\AStarAlgorithm\bin\Debug\AStarAlgorithm.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\AStar\AStarAlgorithm\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\AStar\AStarAlgorithm\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\AStar\AStarAlgorithm\obj\Debug\AStarAlgorithm.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\AStar\AStarAlgorithm\obj\Debug\AStarAlgorithm.exe
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\AStar\AStarAlgorithm\obj\Debug\AStarAlgorithm.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\bin\Debug\AStarAlgorithm.exe.config
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\obj\Debug\AStarAlgorithm.exe
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\obj\Debug\AStarAlgorithm.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\bin\Debug\AStarAlgorithm.exe
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\bin\Debug\AStarAlgorithm.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\obj\Debug\AStarAlgorithm.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\bin\Debug\AStarAlgorithm.exe.config
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\obj\Debug\AStarAlgorithm.exe
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\obj\Debug\AStarAlgorithm.pdb
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\bin\Debug\AStarAlgorithm.exe
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\bin\Debug\AStarAlgorithm.pdb
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\8. Greedy-Algorithms-Lab-new\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarAlgorithm\obj\Debug\AStarAlgorithm.csprojResolveAssemblyReference.cache

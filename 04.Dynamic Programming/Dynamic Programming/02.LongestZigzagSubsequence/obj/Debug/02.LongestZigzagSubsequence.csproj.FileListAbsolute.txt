@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\02.LongestZigzagSubsequence\bin\Debug\02.LongestZigzagSubsequence.exe.config
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\02.LongestZigzagSubsequence\bin\Debug\02.LongestZigzagSubsequence.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\02.LongestZigzagSubsequence\bin\Debug\02.LongestZigzagSubsequence.pdb
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\02.LongestZigzagSubsequence\obj\Debug\02.LongestZigzagSubsequence.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\02.LongestZigzagSubsequence\obj\Debug\02.LongestZigzagSubsequence.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\02.LongestZigzagSubsequence\obj\Debug\02.LongestZigzagSubsequence.pdb

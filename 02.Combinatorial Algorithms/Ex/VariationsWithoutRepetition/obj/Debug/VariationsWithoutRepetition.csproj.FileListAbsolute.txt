@@ -1,0 +1,5 @@
+D:\Projects\Fundamental\07.Algorithms\02.Combinatorial Algorithms\Ex\VariationsWithoutRepetition\bin\Debug\VariationsWithoutRepetition.exe.config
+D:\Projects\Fundamental\07.Algorithms\02.Combinatorial Algorithms\Ex\VariationsWithoutRepetition\bin\Debug\VariationsWithoutRepetition.exe
+D:\Projects\Fundamental\07.Algorithms\02.Combinatorial Algorithms\Ex\VariationsWithoutRepetition\bin\Debug\VariationsWithoutRepetition.pdb
+D:\Projects\Fundamental\07.Algorithms\02.Combinatorial Algorithms\Ex\VariationsWithoutRepetition\obj\Debug\VariationsWithoutRepetition.exe
+D:\Projects\Fundamental\07.Algorithms\02.Combinatorial Algorithms\Ex\VariationsWithoutRepetition\obj\Debug\VariationsWithoutRepetition.pdb

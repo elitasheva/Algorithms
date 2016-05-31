@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\04.UnlimitedAmountOfCoins\bin\Debug\04.UnlimitedAmountOfCoins.exe.config
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\04.UnlimitedAmountOfCoins\bin\Debug\04.UnlimitedAmountOfCoins.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\04.UnlimitedAmountOfCoins\bin\Debug\04.UnlimitedAmountOfCoins.pdb
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\04.UnlimitedAmountOfCoins\obj\Debug\04.UnlimitedAmountOfCoins.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\04.UnlimitedAmountOfCoins\obj\Debug\04.UnlimitedAmountOfCoins.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\04.UnlimitedAmountOfCoins\obj\Debug\04.UnlimitedAmountOfCoins.pdb

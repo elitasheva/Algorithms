@@ -1,0 +1,5 @@
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\9. Methodology-of-Problem-Solving-Lab\Zigzag-Matrix\bin\Debug\Zigzag-Matrix.exe
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\9. Methodology-of-Problem-Solving-Lab\Zigzag-Matrix\bin\Debug\Zigzag-Matrix.pdb
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\9. Methodology-of-Problem-Solving-Lab\Zigzag-Matrix\obj\Debug\Zigzag-Matrix.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\9. Methodology-of-Problem-Solving-Lab\Zigzag-Matrix\obj\Debug\Zigzag-Matrix.exe
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\9. Methodology-of-Problem-Solving-Lab\Zigzag-Matrix\obj\Debug\Zigzag-Matrix.pdb

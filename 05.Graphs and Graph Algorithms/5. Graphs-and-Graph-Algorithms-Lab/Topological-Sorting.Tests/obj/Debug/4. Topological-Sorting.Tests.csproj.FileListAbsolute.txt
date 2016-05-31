@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.Tests.dll
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.Tests.pdb
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.exe
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.pdb
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting.Tests\obj\Debug\4. Topological-Sorting.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting.Tests\obj\Debug\Topological-Sorting-DFS.Tests.dll
+D:\Projects\Fundamental\07.Algorithms\05.Graphs and Graph Algorithms\5. Graphs-and-Graph-Algorithms-Lab\Topological-Sorting.Tests\obj\Debug\Topological-Sorting-DFS.Tests.pdb

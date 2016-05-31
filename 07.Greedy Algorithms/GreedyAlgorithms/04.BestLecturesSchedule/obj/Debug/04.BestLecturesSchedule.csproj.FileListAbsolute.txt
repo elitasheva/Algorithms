@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\04.BestLecturesSchedule\bin\Debug\04.BestLecturesSchedule.exe.config
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\04.BestLecturesSchedule\bin\Debug\04.BestLecturesSchedule.exe
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\04.BestLecturesSchedule\bin\Debug\04.BestLecturesSchedule.pdb
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\04.BestLecturesSchedule\obj\Debug\04.BestLecturesSchedule.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\04.BestLecturesSchedule\obj\Debug\04.BestLecturesSchedule.exe
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\04.BestLecturesSchedule\obj\Debug\04.BestLecturesSchedule.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\03.KnightTour\bin\Debug\03.KnightTour.exe.config
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\03.KnightTour\bin\Debug\03.KnightTour.exe
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\03.KnightTour\bin\Debug\03.KnightTour.pdb
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\03.KnightTour\obj\Debug\03.KnightTour.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\03.KnightTour\obj\Debug\03.KnightTour.exe
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\03.KnightTour\obj\Debug\03.KnightTour.pdb

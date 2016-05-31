@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\01.ShortestPathInMatrix\bin\Debug\01.ShortestPathInMatrix.exe.config
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\01.ShortestPathInMatrix\bin\Debug\01.ShortestPathInMatrix.exe
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\01.ShortestPathInMatrix\bin\Debug\01.ShortestPathInMatrix.pdb
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\01.ShortestPathInMatrix\obj\Debug\01.ShortestPathInMatrix.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\01.ShortestPathInMatrix\obj\Debug\01.ShortestPathInMatrix.exe
+D:\Projects\Fundamental\07.Algorithms\08.Problem Solving Methodology\ProblemSolving\01.ShortestPathInMatrix\obj\Debug\01.ShortestPathInMatrix.pdb

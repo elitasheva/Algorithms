@@ -1,0 +1,9 @@
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\04.LineInverter\bin\Debug\04.LineInverter.exe.config
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\04.LineInverter\bin\Debug\04.LineInverter.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\04.LineInverter\bin\Debug\04.LineInverter.pdb
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\04.LineInverter\obj\Debug\04.LineInverter.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\04.LineInverter\obj\Debug\04.LineInverter.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\04.LineInverter\obj\Debug\04.LineInverter.pdb
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\SampleExam\ExamPreparation\04.LineInverter\bin\Debug\04.LineInverter.exe.config
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\SampleExam\ExamPreparation\04.LineInverter\obj\Debug\04.LineInverter.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\SampleExam\ExamPreparation\04.LineInverter\obj\Debug\04.LineInverter.pdb

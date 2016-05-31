@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\02.ProcessorScheduling\bin\Debug\02.ProcessorScheduling.exe.config
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\02.ProcessorScheduling\bin\Debug\02.ProcessorScheduling.exe
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\02.ProcessorScheduling\bin\Debug\02.ProcessorScheduling.pdb
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\02.ProcessorScheduling\obj\Debug\02.ProcessorScheduling.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\02.ProcessorScheduling\obj\Debug\02.ProcessorScheduling.exe
+D:\Projects\Fundamental\07.Algorithms\07.Greedy Algorithms\GreedyAlgorithms\02.ProcessorScheduling\obj\Debug\02.ProcessorScheduling.pdb

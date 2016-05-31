@@ -1,0 +1,16 @@
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.dll
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kurskal.exe
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kurskal.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.dll
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.pdb
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\6. Advanced-Graph-Algorithms-Lab-new\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.dll
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\6. Advanced-Graph-Algorithms-Lab-new\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.pdb
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\6. Advanced-Graph-Algorithms-Lab-new\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kurskal.exe
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\6. Advanced-Graph-Algorithms-Lab-new\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\6. Advanced-Graph-Algorithms-Lab-new\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kurskal.pdb
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\6. Advanced-Graph-Algorithms-Lab-new\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\6. Advanced-Graph-Algorithms-Lab-new\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.dll
+D:\Projects\Fundamental\07.Algorithms\06.Advanced Graph Algorithms\6. Advanced-Graph-Algorithms-Lab-new\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.pdb

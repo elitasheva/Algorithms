@@ -1,0 +1,7 @@
+D:\Projects\Fundamental\07.Algorithms\03.Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\03.Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.dll
+D:\Projects\Fundamental\07.Algorithms\03.Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.pdb
+D:\Projects\Fundamental\07.Algorithms\03.Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.exe
+D:\Projects\Fundamental\07.Algorithms\03.Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.pdb
+D:\Projects\Fundamental\07.Algorithms\03.Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.dll
+D:\Projects\Fundamental\07.Algorithms\03.Sorting and Searching Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.pdb

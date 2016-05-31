@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\03.DividingPresents\bin\Debug\03.DividingPresents.exe.config
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\03.DividingPresents\bin\Debug\03.DividingPresents.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\03.DividingPresents\bin\Debug\03.DividingPresents.pdb
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\03.DividingPresents\obj\Debug\03.DividingPresents.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\03.DividingPresents\obj\Debug\03.DividingPresents.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\03.DividingPresents\obj\Debug\03.DividingPresents.pdb

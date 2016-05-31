@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\05.LimitedAmountOfCoins\bin\Debug\05.LimitedAmountOfCoins.exe.config
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\05.LimitedAmountOfCoins\bin\Debug\05.LimitedAmountOfCoins.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\05.LimitedAmountOfCoins\bin\Debug\05.LimitedAmountOfCoins.pdb
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\05.LimitedAmountOfCoins\obj\Debug\05.LimitedAmountOfCoins.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\05.LimitedAmountOfCoins\obj\Debug\05.LimitedAmountOfCoins.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\05.LimitedAmountOfCoins\obj\Debug\05.LimitedAmountOfCoins.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\01.SequencesOfLimitedSum\bin\Debug\01.SequencesOfLimitedSum.exe.config
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\01.SequencesOfLimitedSum\bin\Debug\01.SequencesOfLimitedSum.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\01.SequencesOfLimitedSum\bin\Debug\01.SequencesOfLimitedSum.pdb
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\01.SequencesOfLimitedSum\obj\Debug\01.SequencesOfLimitedSum.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\01.SequencesOfLimitedSum\obj\Debug\01.SequencesOfLimitedSum.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamDecember2015\01.SequencesOfLimitedSum\obj\Debug\01.SequencesOfLimitedSum.pdb

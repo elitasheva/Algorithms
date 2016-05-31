@@ -1,0 +1,3 @@
+D:\Projects\Fundamental-C#\07.Algorithms\02.Combinatorial Algorithms\Ex\Ex\bin\Debug\Ex.exe.config
+D:\Projects\Fundamental-C#\07.Algorithms\02.Combinatorial Algorithms\Ex\Ex\obj\Debug\Ex.exe
+D:\Projects\Fundamental-C#\07.Algorithms\02.Combinatorial Algorithms\Ex\Ex\obj\Debug\Ex.pdb

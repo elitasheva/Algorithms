@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\07.ConnectingCables\bin\Debug\07.ConnectingCables.exe.config
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\07.ConnectingCables\bin\Debug\07.ConnectingCables.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\07.ConnectingCables\bin\Debug\07.ConnectingCables.pdb
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\07.ConnectingCables\obj\Debug\07.ConnectingCables.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\07.ConnectingCables\obj\Debug\07.ConnectingCables.exe
+D:\Projects\Fundamental\07.Algorithms\04.Dynamic Programming\Dynamic Programming\07.ConnectingCables\obj\Debug\07.ConnectingCables.pdb

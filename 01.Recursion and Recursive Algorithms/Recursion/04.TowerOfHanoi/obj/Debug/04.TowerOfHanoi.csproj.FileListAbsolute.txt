@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\04.TowerOfHanoi\bin\Debug\04.TowerOfHanoi.exe.config
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\04.TowerOfHanoi\bin\Debug\04.TowerOfHanoi.exe
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\04.TowerOfHanoi\bin\Debug\04.TowerOfHanoi.pdb
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\04.TowerOfHanoi\obj\Debug\04.TowerOfHanoi.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\04.TowerOfHanoi\obj\Debug\04.TowerOfHanoi.exe
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\04.TowerOfHanoi\obj\Debug\04.TowerOfHanoi.pdb

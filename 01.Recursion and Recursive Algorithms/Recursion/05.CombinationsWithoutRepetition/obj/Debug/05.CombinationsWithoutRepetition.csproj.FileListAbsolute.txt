@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\05.CombinationsWithoutRepetition\bin\Debug\05.CombinationsWithoutRepetition.exe.config
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\05.CombinationsWithoutRepetition\bin\Debug\05.CombinationsWithoutRepetition.exe
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\05.CombinationsWithoutRepetition\bin\Debug\05.CombinationsWithoutRepetition.pdb
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\05.CombinationsWithoutRepetition\obj\Debug\05.CombinationsWithoutRepetition.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\05.CombinationsWithoutRepetition\obj\Debug\05.CombinationsWithoutRepetition.exe
+D:\Projects\Fundamental\07.Algorithms\01.Recursion and Recursive Algorithms\Recursion\05.CombinationsWithoutRepetition\obj\Debug\05.CombinationsWithoutRepetition.pdb

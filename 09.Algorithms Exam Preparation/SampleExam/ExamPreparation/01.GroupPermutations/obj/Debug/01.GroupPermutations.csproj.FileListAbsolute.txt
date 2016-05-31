@@ -1,0 +1,9 @@
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\01.GroupPermutations\bin\Debug\01.GroupPermutations.exe.config
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\01.GroupPermutations\bin\Debug\01.GroupPermutations.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\01.GroupPermutations\bin\Debug\01.GroupPermutations.pdb
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\01.GroupPermutations\obj\Debug\01.GroupPermutations.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\01.GroupPermutations\obj\Debug\01.GroupPermutations.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\ExamPreparation\01.GroupPermutations\obj\Debug\01.GroupPermutations.pdb
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\SampleExam\ExamPreparation\01.GroupPermutations\bin\Debug\01.GroupPermutations.exe.config
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\SampleExam\ExamPreparation\01.GroupPermutations\obj\Debug\01.GroupPermutations.exe
+D:\Projects\Fundamental\07.Algorithms\09.Algorithms Exam Preparation\SampleExam\ExamPreparation\01.GroupPermutations\obj\Debug\01.GroupPermutations.pdb
